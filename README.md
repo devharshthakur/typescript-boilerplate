@@ -1,6 +1,3 @@
-Here's a detailed README for your TypeScript boilerplate project:
-
-```markdown
 # 🚀 TypeScript Boilerplate
 
 A modern, minimal TypeScript boilerplate with essential tooling for building scalable applications.
@@ -146,7 +143,7 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Harsh Thakur**
+**Harsh Thakur** 
 
 ## 🌟 Acknowledgments
 
@@ -158,6 +155,3 @@ This project is licensed under the ISC License - see the LICENSE file for detail
 ---
 
 ⭐️ If you found this helpful, please star the repository!
-```
-
-This README provides a comprehensive overview of your project, with clear sections for setup, configuration, and usage. I've used pnpm instead of npm/yarn i prefer you too and included references to your actual configuration files. The folder structure is displayed in a clear, hierarchical format that shows the main components of your project.
